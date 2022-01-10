@@ -1,7 +1,25 @@
+# Hi, i'm Denis Bonate
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbonate&show_icons=true&theme=cobalt)
+
+
+### About me
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dbonate)](https://github.com/denisbonateoliveira)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/denis-souza-bonate-de-oliveira-41b13335//)](https://www.linkedin.com/in/denis-souza-bonate-de-oliveira-41b13335/)
+
+
+
+
+
+
+
+
+
 ### Hi there 👋
 
 <!--
-**dbonate/dbonate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**denisbonateoliveira/denisbonateoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
