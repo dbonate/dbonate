@@ -1,5 +1,5 @@
 # Hi, i'm Denis Bonate
-
+### More than 10 years of experience in information technology, currently DevOps Engineer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbonate&show_icons=true&theme=cobalt)
 
