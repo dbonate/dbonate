@@ -1,5 +1,5 @@
 # Hi, I'm Denis Bonate!
-### More than 13 years of experience in information technology, currently a DevOps Engineer.
+### More than 12 years of experience in information technology, currently a Plataform Engineer.
 
 ---
 
