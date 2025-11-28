@@ -55,11 +55,11 @@ Here are some highlights from my portfolio:
 👉 [See full details at denis.dlbonate.com.br](https://denis.dlbonate.com.br/#projects)
 
 ---
-
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dbonate&show_icons=true&theme=cobalt&hide_border=true&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dbonate&show_icons=true&theme=cobalt&hide_border=true" height="160" alt="stats graph" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbonate&layout=compact&theme=cobalt&hide_border=true&langs_count=6" height="160" alt="languages graph" />
 </div>
 
@@ -74,7 +74,7 @@ Here are some highlights from my portfolio:
   <a href="https://denis.dlbonate.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Website-FF4500?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@gmail.com">
+  <a href="mailto:denis.bonate.oliveira@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
