@@ -55,12 +55,10 @@ Here are some highlights from my portfolio:
 👉 [See full details at denis.dlbonate.com.br](https://denis.dlbonate.com.br/#projects)
 
 ---
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dbonate&show_icons=true&theme=cobalt&hide_border=true" height="160" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbonate&layout=compact&theme=cobalt&hide_border=true&langs_count=6" height="160" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dbonate&theme=cobalt&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
