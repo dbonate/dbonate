@@ -2,7 +2,7 @@
 <h3 align="center">Platform Engineer | DevSecOps | AI & Cloud Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E31B23&center=true&vCenter=true&width=480&lines=High+Performance+Infrastructure;Automating+Everything;Building+Robust+Cloud+Platforms;13%2B+Years+Transforming+IT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E31B23&center=true&vCenter=true&width=480&lines=High+Performance+Infrastructure;Automating+Everything;Building+Robust+Cloud+Platforms;14%2B+Years+Transforming+IT" alt="Typing SVG" />
 </p>
 
 ---
