@@ -11,7 +11,7 @@
 
 I treat infrastructure like a **Formula 1** race: every millisecond counts, and strategic optimization is key.
 
-With over **13 years of experience**, my journey started in the countryside fueled by a passion for games and innovation. Today, I build high-scale platforms in the biggest tech hubs.
+With over **14 years of experience**, my journey started in the countryside fueled by a passion for games and innovation. Today, I build high-scale platforms in the biggest tech hubs.
 
 * 🔭 **Current Focus:** Leading Tech projects involving **OCR with AI (Gemini)**, **Backstage (IDP)**, and **Disaster Recovery** strategies.
 * 🎓 **Education:** MBA in Artificial Intelligence & Bots Engineering.
